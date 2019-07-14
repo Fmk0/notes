@@ -3,8 +3,6 @@
 ## Yourself
 * Don't be afraid about new stuff.
 * There is no age limitation for learning RE/Malware analysis.
-* if you someone said to you that it's mandatory to have certifications or required diploma in IT for starting this field, this dude is ridiculous.
-* It's stupid to say it's impossible whenever you didn't try it once.
 * Don't believe that new field like reverse engineering is extremely hard, it's in fact easier than you think
 * When you have no idea about what the malware do, don't think at first that you are bad/rookie, it means that you will learn new stuff, it's the most important thing to notice.
 * Mistake are part of the process, and it's important to make mistakes.
@@ -13,6 +11,8 @@
 * Papers, Work, Projects, Tools are proofs that you have done something, popular or not, it's a satisfaction to some work done.
 * Don't hurry on something new, it's the best way to make irreversible mistakes. 
 * Frustration is part of the process, learn to deal with it.
+* if you someone said to you that it's mandatory to have certifications or required diploma in IT for starting this field, this dude is ridiculous.
+* It's stupid to say it's impossible whenever you didn't try it once.
 
 ## Learning
 * Notes are mandatory
