@@ -12,9 +12,10 @@
 * You will learn during all your life, don't think that you have to know "everything" in the first days, it's impossible to know litterally everything in that field, just take your time.
 * Papers, Work, Projects, Tools are proofs that you have done something, popular or not, it's a satisfaction to some work done.
 * Don't hurry on something new, it's the best way to make irreversible mistakes. 
+* Frustration is part of the process, learn to deal with it.
 
 ## Learning
-* Notes are f*cking mandatory
+* Notes are mandatory
 * Practice, Practice, Practice... 
 * There is no fundamental path into RE/Malware Analysis, i could say that everyone path is different even if some branches are identicals.
 * Write some programs and do some reverse on them (Also play with the compilers options to understand the differences).
