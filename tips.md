@@ -1,4 +1,4 @@
-# Tooltips in RE/Malware Anaysis
+# Tips in RE/Malware Anaysis
 
 ## Yourself
 * Don't be afraid about new stuff.
