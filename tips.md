@@ -31,7 +31,7 @@
     - Twitter
     - Specialized websites
     - Technical Papers
-* Read In-Depth Malware Technicals Analysis 
+* Read In-Depth Malware Technical Analysis, reverse the malware with the paper nears you.
 * Learn to recognize API kernel functions, this will help you to understand what the malware do.
 * Read Books, Tutorials most of them are free 
 * Watch Security Conferences, Security Tutorials (They are nowadays accessibles easily and free).
