@@ -13,6 +13,7 @@
 * Frustration is part of the process, learn to deal with it.
 * if you someone said to you that it's mandatory to have certifications or required diploma in IT for starting this field, this dude is ridiculous.
 * It's stupid to say it's impossible whenever you didn't try it once.
+* Don't hesitate to ask, we eat asm code not people.
 
 ## Learning
 * Notes are mandatory
@@ -30,6 +31,10 @@
     - Twitter
     - Specialized websites
     - Technical Papers
+* Read In-Depth Malware Technicals Analysis 
+* Learn to recognize API kernel functions, this will help you to understand what the malware do.
+* Read Books, Tutorials most of them are free 
+* Watch Security Conferences, Security Tutorials (They are nowadays accessibles easily and free).
 
 ## Malware Analysis
 * If you want to verify something, read/eat the code
@@ -39,3 +44,7 @@
 * Of course, when you considered that you have seen all the apsect of one, go to another one but always keep an eye on new species.
 * Never trust tags, comments on sandboxes, VT, and others...
 * Seriously, never trust tags, comments on sandboxes, VT, and others...
+* Tags are for guidance, must be only used for search as first guidance not as final clue.
+
+[Updates]
+* 07-14-2019 <-> https://twitter.com/Arkbird_SOLG/status/1150485116197773312
