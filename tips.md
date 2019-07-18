@@ -13,7 +13,8 @@
 * Frustration is part of the process, learn to deal with it.
 * if you someone said to you that it's mandatory to have certifications or required diploma in IT for starting this field, this dude is ridiculous.
 * It's stupid to say it's impossible whenever you didn't try it once.
-* Don't hesitate to ask, we eat asm code not people.
+* Don't hesitate to ask, we eat ASM code not people.
+* Unable to do some tasks that others succeeded with no problem, doesn't mean that you sucks, it will just take more times for you.
 
 ## Learning
 * Notes are mandatory
@@ -25,7 +26,7 @@
 * Something that you don't understand one day, you will get it on another case and will blow your mind... this is some magic that i love when it comes.
 * If english is not your main language, learn this one and put your notes/papers/comments in that language. It's easier to show your work to others.
 * When people say it's expensive to learn RE i could say they are wrong, i've build my first lab setup with low-cost computers threw on streets and free softwares so... 
-* Some CTF/CrackMe challenges are fun way to learn also some interesting things.
+* Some CTF/CrackMe challenges are fun ways to learn also some interesting things.
 * Take breaks, especially when you have struggles in some analysis.
 * 20/30 min dedicated everyday on reading/analyzing new stuff shared by the community is incredibly worth after weeks, months. (don't forget to make notes about it) 
     - Twitter
@@ -33,11 +34,12 @@
     - Technical Papers
 * Read In-Depth Malware Technical Analysis, reverse the malware with the paper nears you.
 * Learn to recognize API kernel functions, this will help you to understand what the malware do.
-* Read Books, Tutorials most of them are free 
+* Reverse program that you like, to discover some exciting new contents
+* Read Books, Tutorials (most of them are free) 
 * Watch Security Conferences, Security Tutorials (They are nowadays accessibles easily and free).
 
 ## Malware Analysis
-* If you want to verify something, read/eat the code
+* If you want to verify something for a malware, don't look on the sandbox but read/eat the code, the code never lies (in sort of).
 * Reverse everything that dig your curiosity, even if it's stupid, you will learn somewhat something, for further investigations.
 * A specific POST/GET request pattern doesn't mean this is always the same malware, be careful about this.
 * It's better to focus on one family than multiple, take your time, nobody will push you to do other things, it all up to you to decide. [Ransomware / Banker / Infostealers / Loaders...]
@@ -47,4 +49,5 @@
 * Tags are for guidance, must be only used for search as first guidance not as final clue.
 
 [Updates]
-* 07-14-2019 <-> https://twitter.com/Arkbird_SOLG/status/1150485116197773312
+* 07-18-2019 Hotfixes, typos, additional tips
+* 07-14-2019 https://twitter.com/Arkbird_SOLG/status/1150485116197773312
