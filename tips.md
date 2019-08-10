@@ -37,6 +37,7 @@
 * Reverse program that you like, to discover some exciting new contents
 * Read Books, Tutorials (most of them are free) 
 * Watch Security Conferences, Security Tutorials (They are nowadays accessibles easily and free).
+* Reversing old games are a really fun way to check your basics.
 
 ## Malware Analysis
 * If you want to verify something for a malware, don't look on the sandbox but read/eat the code, the code never lies (in sort of).
@@ -49,5 +50,6 @@
 * Tags are for guidance, must be only used for search as first guidance not as final clue.
 
 [Updates]
+* 08-10-2019 Additional tips 
 * 07-18-2019 Hotfixes, typos, additional tips
 * 07-14-2019 https://twitter.com/Arkbird_SOLG/status/1150485116197773312
